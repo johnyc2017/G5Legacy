@@ -1,4 +1,4 @@
-package G6.Building_a_selenium_project;
+package G6.pageObjectModel;
 
 /**
  * Hello world!
